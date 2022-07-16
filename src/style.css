@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+body{
+    background-color: #EBE6E6;
+}
+
+/* Banner Home */
+#banner-home-template{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#plato-principal-home{
+    filter: drop-shadow(0 6px 10px rgba(0, 0, 0, 0.5));  
+}
